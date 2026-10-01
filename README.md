@@ -120,7 +120,7 @@ I'm interested in **Product Management, Technical Product Management, Platform P
 
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/eugene-fomenko/)
 - 🐙 GitHub: [My GitHub](#)
-- 📧 Email: [My Email](eug.fomenko@gmail.com)
+- 📧 Email: [eug.fomenko@gmail.com](#)
 
 <!--
 **efomenko/efomenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
