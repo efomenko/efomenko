@@ -13,7 +13,7 @@ My product approach is focused on **customer outcomes rather than feature volume
 ### 📋 Product Requirements Document
 A practical PRD demonstrating product discovery, problem definition, user stories, acceptance criteria, scope, and success metrics.
 
-🔗 [View PRD →](#)
+🔗 [View PRD →](https://github.com/efomenko/product-requirements-example)
 
 ### 🗺️ Product Roadmap
 A product roadmap demonstrating prioritization, strategic themes, milestones, dependencies, and outcome-oriented planning.
