@@ -18,7 +18,7 @@ A practical PRD demonstrating product discovery, problem definition, user storie
 ### 🗺️ Product Roadmap
 A product roadmap demonstrating prioritization, strategic themes, milestones, dependencies, and outcome-oriented planning.
 
-🔗 [View Roadmap →](#)
+🔗 [View Roadmap →](https://github.com/efomenko/product-roadmap-example)
 
 ### 🤖 AI Product Case Study
 A product case study demonstrating how AI/GenAI can be applied to solve a real business or workflow problem, including use cases, product requirements, risks, and success metrics.
