@@ -28,7 +28,7 @@ A product case study demonstrating how AI/GenAI can be applied to solve a real b
 ### ⚙️ Workflow Automation Case Study
 A product case focused on designing scalable automation capabilities using triggers, actions, conditions, integrations, and reusable workflows.
 
-🔗 [View Case Study →](#)
+🔗 [View Case Study →](https://github.com/efomenko/workflow-automation-case)
 
 ---
 
