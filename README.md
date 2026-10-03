@@ -23,7 +23,7 @@ A product roadmap demonstrating prioritization, strategic themes, milestones, de
 ### 🤖 AI Product Case Study
 A product case study demonstrating how AI/GenAI can be applied to solve a real business or workflow problem, including use cases, product requirements, risks, and success metrics.
 
-🔗 [View AI Case Study →](#)
+🔗 [View AI Case Study →](https://github.com/efomenko/ai-product-case-study)
 
 ### ⚙️ Workflow Automation Case Study
 A product case focused on designing scalable automation capabilities using triggers, actions, conditions, integrations, and reusable workflows.
